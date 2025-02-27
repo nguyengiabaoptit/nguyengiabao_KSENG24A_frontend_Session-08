@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: hsl(272.9deg 19.75% 30.78%);
+}
+textarea{
+    background-color: hsl(272.9deg 19.75% 30.78%);
+}
+input{
+    background-color: hsl(272.9deg 19.75% 30.78%);
+}
+.name{
+    color: white;
+    padding: 20px;
+}
+.mail{
+    color: white;
+    padding: 20px;
+}
+div{
+    padding-bottom: 10px;
+}
+.mess{
+    color: white;
+    padding: 20px;
+}
+button{
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
